@@ -1,0 +1,2 @@
+rootProject.name='Dil'
+include ':app'

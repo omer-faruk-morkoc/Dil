@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">	#ffffff</color>
+    <color name="colorPrimaryDark">	#908f8f</color>
+    <color name="colorAccent">#CE2A5E</color>
+    <color name="Lacivert">#8b3a3a</color>
+    <color name="HintRengi">#1F1C27</color>
+    <color name="Beyaz">#FFFFFF</color>
+
+</resources>

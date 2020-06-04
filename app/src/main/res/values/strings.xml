@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Dil</string>
+
+    <string name="Secili_İtem">Seçili Dil:</string>
+
+    <string-array name="AnaDil">
+        <item>Türkçe</item>
+        <item>İngilizce</item>
+        <item>İspanyolca</item>
+        <item>Almanca</item>
+        <item>Rusça</item>
+
+    </string-array>
+    <string-array name="OgrDil">
+        <item>Türkçe</item>
+        <item>İngilizce</item>
+        <item>İspanyolca</item>
+        <item>Almanca</item>
+        <item>Rusça</item>
+
+    </string-array>
+
+</resources>

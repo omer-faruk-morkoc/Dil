@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.example.dil.MainActivity">
+
+
+    <TextView
+        android:id="@+id/TxtAnadil"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="198dp"
+
+        android:text="Ana Dilinizi Seçiniz"
+        android:textColor="@color/Lacivert"
+        android:textSize="24sp"
+        android:layout_marginStart="70dp" />
+
+    <Spinner
+        android:id="@+id/AnaSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="75dp"
+        android:layout_marginLeft="75dp"
+        android:layout_marginTop="247dp"
+        android:forceDarkAllowed="false" />
+
+    <TextView
+        android:id="@+id/TxtOgrdil"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="325dp"
+
+        android:text="Geliştirmek İstediğiniz Dili Seçiniz "
+        android:textColor="@color/Lacivert"
+        android:textSize="24sp" />
+
+
+
+    <Spinner
+        android:id="@+id/OgrSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="404dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        />
+
+
+
+</RelativeLayout>
